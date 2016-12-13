@@ -1,0 +1,36 @@
+{
+  "name": "discuter",
+  "version": "1.0.0",
+  "description": "A chat Application backend supported with nodejs, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anistark/discuter.git"
+  },
+  "keywords": [
+    "discuter",
+    "chat",
+    "node",
+    "node.js",
+    "socket.io",
+    "express",
+    "backend",
+    "anistark",
+    "Kumar",
+    "Anirudha",
+    "anirudha"
+  ],
+  "author": "Kumar Anirudha <anirudhastark@yahoo.com> (http://anirudha.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anistark/discuter/issues"
+  },
+  "homepage": "https://github.com/anistark/discuter#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
